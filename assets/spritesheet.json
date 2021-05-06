@@ -1,0 +1,88 @@
+{"frames": {
+
+"1528782_orig-8.png":
+{
+	"frame": {"x":541,"y":269,"w":40,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":11,"w":40,"h":48},
+	"sourceSize": {"w":64,"h":64}
+},
+"1528782_orig-9.png":
+{
+	"frame": {"x":447,"y":269,"w":40,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":9,"w":40,"h":50},
+	"sourceSize": {"w":64,"h":64}
+},
+"1528782_orig-10.png":
+{
+	"frame": {"x":499,"y":269,"w":40,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":11,"w":40,"h":48},
+	"sourceSize": {"w":64,"h":64}
+},
+"1528782_orig-11.png":
+{
+	"frame": {"x":447,"y":311,"w":40,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":9,"w":40,"h":48},
+	"sourceSize": {"w":64,"h":64}
+},
+"d2rsb9v-15b1227b-03bf-434b-9c81-0565fcef2ffc-1 14-0.png":
+{
+	"frame": {"x":583,"y":269,"w":41,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":41,"h":41},
+	"sourceSize": {"w":42,"h":41}
+},
+"d2rsb9v-15b1227b-03bf-434b-9c81-0565fcef2ffc-1 14-1.png":
+{
+	"frame": {"x":583,"y":312,"w":41,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":41,"h":40},
+	"sourceSize": {"w":42,"h":41}
+},
+"homescreen.jpg":
+{
+	"frame": {"x":1,"y":1,"w":444,"h":794},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":444,"h":794},
+	"sourceSize": {"w":444,"h":794}
+},
+"images.jpg":
+{
+	"frame": {"x":447,"y":1,"w":266,"h":190},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":190},
+	"sourceSize": {"w":266,"h":190}
+},
+"pngwing.com.png":
+{
+	"frame": {"x":1,"y":797,"w":614,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":203,"y":195,"w":614,"h":210},
+	"sourceSize": {"w":960,"h":640}
+}},
+"animations": {
+	"1528782_orig": ["1528782_orig-8.png","1528782_orig-9.png","1528782_orig-10.png","1528782_orig-11.png"],
+	"d2rsb9v-15b1227b-03bf-434b-9c81-0565fcef2ffc-1 14": ["d2rsb9v-15b1227b-03bf-434b-9c81-0565fcef2ffc-1 14-0.png","d2rsb9v-15b1227b-03bf-434b-9c81-0565fcef2ffc-1 14-1.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":638,"h":1008},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:63b452385f441730910ceed18ed949a6:a40b31ad97c7a49bf3f8a331f0597e6c:729adc6043343cfda41c447ce8f464d6$"
+}
+}
